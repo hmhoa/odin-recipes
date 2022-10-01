@@ -30,4 +30,6 @@ h2.description {
 img {
     height: auto;
     width: 500px;
+    border-style: dashed;
+    border-color: rgb(69, 177, 177);
 }
