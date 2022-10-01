@@ -2,9 +2,9 @@
 Project: Recipes for [The Odin Project](https://www.theodinproject.com/)
 
 ## Overview
-This is my very first project utilizing my knowledge in HTML basics as part of my journey to learn front end development and eventually become a full stack developer. You can view the site at: https://hmhoa.github.io/odin-recipes/
+This is my very first project utilizing my knowledge in HTML and CSS basics as part of my journey to learn front end development and eventually become a full stack developer. You can view the site at: https://hmhoa.github.io/odin-recipes/
 
-Within this project, I used a variety of different text elements, tags, images, and links in HTML. This was also my first time using GitHub Pages, which was an amazing feature to find out about and be able to use!
+Within this project, I used a variety of different text elements, tags, images, and links in HTML. I also applied some basic properties to style the website within [style.css](./style.css). This was also my first time using GitHub Pages, which was an amazing feature to find out about and be able to use!
 
 ## Recipe Pages
 The HTML files for each recipe can be found under [./recipes/](https://github.com/hmhoa/odin-recipes/tree/main/recipes)
