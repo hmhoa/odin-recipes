@@ -1,0 +1,33 @@
+body {
+    background-color: paleturquoise;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 { 
+    background-color: rgb(69, 177, 177);
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(31, 128, 192);
+}
+
+h2 {
+    font-size: 16px;
+    background-color: rgb(119, 209, 209);
+    border-left-style: solid;
+    border-left-color: rgb(69, 177, 177);
+}
+
+h2.description {
+    font-size: 20px;
+}
+
+.ingredients li {
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
